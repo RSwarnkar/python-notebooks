@@ -1,2 +1,1 @@
-# python-recipes
-Notes about using Python
+# Notes and Snippter on Python
